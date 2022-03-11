@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="CLLocationManager/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>CLLocationManager</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>Разрешите устройству отслеживать вашу локацию</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CLLocationManager/en.lproj/Localizable.strings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+    </header>
+    <body>
+      <trans-unit id="Location" xml:space="preserve">
+        <source>Location</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="destination" xml:space="preserve">
+        <source>That way</source>
+        <target>Вам сюда</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="location" xml:space="preserve">
+        <source>Location</source>
+        <target>Локация</target>
+        <note>Localizable.strings
+  CLLocationManager
+
+  Created by Misha on 10.03.2022.</note>
+      </trans-unit>
+      <trans-unit id="pin count" xml:space="preserve">
+        <source>pin count</source>
+        <note>Pin count string format to be found in Localized.stringsdict</note>
+      </trans-unit>
+      <trans-unit id="startpoint" xml:space="preserve">
+        <source>You are here</source>
+        <target>Вы сдесь</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CLLocationManager
+
+  Created by Misha on 10.03.2022.
+  
+*/
+
+"location" = "Location";
+"startpoint" = "You are here";
+"destination" = "That way";

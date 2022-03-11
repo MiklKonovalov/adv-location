@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "CLLocationManager";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Разрешите устройству отслеживать вашу локацию";
