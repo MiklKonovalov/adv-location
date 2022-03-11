@@ -49,14 +49,11 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         
         navigationController?.navigationBar.prefersLargeTitles = true
         title = Strings.location.localized
-//        title = NSLocalizedString("Location", tableName: "Localizable", bundle: .main, value: "Location", comment: "")
-//        title = NSLocalizedString("Location", tableName: "Localizable", bundle: .main, value: "Локация", comment: "")
-        
+
         self.map.delegate = self
         locationManager.delegate = self
         
         valueLocationLabel.text = "Test"
-        //setupConstraints()
         
         let gestureRecognizer = UILongPressGestureRecognizer(target: self, action: #selector(pinLocation(gestureRecognizer:)))
         gestureRecognizer.minimumPressDuration = 2.0
@@ -79,15 +76,6 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
     }
 
     //MARK: -Functions:
-    
-    func setupConstraints() {
-        
-        valueLocationLabel.topAnchor.constraint(equalTo: map.topAnchor, constant: 100).isActive = true
-        valueLocationLabel.leadingAnchor.constraint(equalTo: map.leadingAnchor, constant: 50).isActive = true
-        valueLocationLabel.heightAnchor.constraint(equalToConstant: 50).isActive = true
-        valueLocationLabel.widthAnchor.constraint(equalToConstant: 150).isActive = true
-   
-    }
     
     func addMapPin(with location: CLLocation) {
         let pin = MKPointAnnotation()

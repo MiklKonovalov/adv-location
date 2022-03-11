@@ -78,8 +78,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "69"
-            endingLineNumber = "69"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -126,8 +126,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "67"
-            endingLineNumber = "67"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -282,8 +282,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "92"
-            endingLineNumber = "92"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
             landmarkName = "addMapPin(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -298,8 +298,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "115"
-            endingLineNumber = "115"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
             landmarkName = "pinLocation(gestureRecognizer:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -314,8 +314,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
             landmarkName = "MapViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -330,8 +330,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "142"
-            endingLineNumber = "142"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
             landmarkName = "pinLocation(gestureRecognizer:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -346,8 +346,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "106"
-            endingLineNumber = "106"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
             landmarkName = "mapView(_:rendererFor:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -362,8 +362,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "140"
-            endingLineNumber = "140"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
             landmarkName = "pinLocation(gestureRecognizer:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -378,8 +378,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "169"
-            endingLineNumber = "169"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
             landmarkName = "pinLocation(gestureRecognizer:)"
             landmarkType = "7">
             <Locations>
@@ -426,8 +426,8 @@
             filePath = "CLLocationManager/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
             landmarkName = "pinLocation(gestureRecognizer:)"
             landmarkType = "7">
          </BreakpointContent>
